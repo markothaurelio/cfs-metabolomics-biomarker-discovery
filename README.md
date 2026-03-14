@@ -133,7 +133,7 @@ These metabolites appear most consistently across models and represent
 Run the analysis with:
 
 ```
-python CFS_analysis.py
+python cfs_metabolomics_feature_selection.py
 ```
 
 The script performs:
